@@ -7,3 +7,5 @@ for m in matrix:
     print("Matrix Values "+ str(m))
     for i in m:
         print("Matrix Values are "+ str(i))
+
+print(matrix[0][2])
